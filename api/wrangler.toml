@@ -1,0 +1,8 @@
+name = "" # todo
+main = "index.js"
+compatibility_date = "2022-05-03"
+
+[[ d1_databases ]]
+binding = "PollDB" # i.e. available in your Worker on env.DB
+database_name = "POLLTEST_DB"
+database_id = "778fdfe0-6ab2-4c4a-85e1-bd3a64b0bea8"
