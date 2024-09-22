@@ -1,4 +1,5 @@
 /.wrangler
-.sqlite3
+*.sqlite3
+*.sqlite
 test.js
 *.test.js
